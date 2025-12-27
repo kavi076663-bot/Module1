@@ -29,3 +29,4 @@ print("d:",d)
 <img width="1487" height="471" alt="Screenshot 2025-12-27 093619" src="https://github.com/user-attachments/assets/efe1fac1-431a-48c8-a816-364bc5523318" />
 
 ## Result
+the give program was successfully executed
